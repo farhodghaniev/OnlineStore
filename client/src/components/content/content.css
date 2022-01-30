@@ -1,0 +1,35 @@
+
+.row{
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;  
+}
+.ct{
+    background-color: #fff;
+    height: 230px;
+    width: 200px;
+    margin: 10px;
+    box-shadow: 0px 0px 5px #000;
+}
+.img{
+    padding-top: 5px;
+    display: flex;
+    justify-content: center;
+}
+.ct img{
+    height: 80%;
+    width: 60%;
+}
+.ct .desc{
+}
+.ct .head{
+    margin: 0;
+    height: 50px;
+    font-family: serif;
+    overflow: hidden;
+}
+.ct .price{
+    font-size: 14px;
+}
